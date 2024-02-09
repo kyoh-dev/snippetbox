@@ -1,3 +1,3 @@
 # snippetbox
 
-Practice application from Let's Go by Alex Edwards
+A pastebin clone in Go, from Let's Go by Alex Edwards.
